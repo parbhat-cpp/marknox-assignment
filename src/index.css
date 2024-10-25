@@ -1,0 +1,40 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary-color: 216, 18%, 16%;
+  --secondary-color: 217, 10%, 25%;
+  --primary-text: 0, 0%, 93%;
+  --secondary-text: 183, 100%, 35%;
+}
+
+body {
+  h1 {
+    font-size: 2em;
+  }
+
+  h2 {
+    font-size: 1.5em;
+  }
+
+  h3 {
+    font-size: 1.17em;
+  }
+
+  h4 {
+    font-size: 1em;
+  }
+
+  h5 {
+    font-size: 0.83em;
+  }
+
+  h6 {
+    font-size: 0.67em;
+  }
+
+  section {
+    scroll-margin-top: 93px;
+  }
+}
