@@ -4,6 +4,9 @@ import { IoLogoInstagram } from "react-icons/io";
 import { IoIosGlobe } from "react-icons/io";
 import { MdEmail } from "react-icons/md";
 
+import gotripping_logo from './assets/gotripping_logo.webp'
+import rapidoform_logo from './assets/rapidoform_logo.webp'
+
 export const resumeLink = 'https://drive.google.com/file/d/1i9ptCAkdwi7LWF9QTsAHZ-Pv0LEF1JF4/view?usp=sharing';
 
 export const socials = [
@@ -44,7 +47,7 @@ export const experiences = [
         jobTitle: "Frontend Developer Intern",
         jobDescription:
             "Responsible for frontend development at Go Tripping.",
-        imgUrl: "https://gotripping-frontend.vercel.app/_next/image?url=%2Fgotripping_logo.webp&w=256&q=75",
+        imgUrl: gotripping_logo,
         employmentSpan: "July 2024 - September 2024",
         alt: "Work Experience | Go Tripping",
     },
@@ -52,7 +55,7 @@ export const experiences = [
         jobTitle: "Full Stack Developer Intern",
         jobDescription:
             "Worked as a full stack developer at RapidoForm. Here I created landing pages, implemented features and also involved in the testing of the website.",
-        imgUrl: "https://www.rapidoform.com/be/images/logo/rapidoformlogo2new.webp",
+        imgUrl: rapidoform_logo,
         employmentSpan: "Nov 2023 - July 2024",
         alt: "Work Experience | RapidoForm",
     }
