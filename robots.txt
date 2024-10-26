@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://parbhat-cpp.github.io/marknox-assignment/sitemap_index.xml
