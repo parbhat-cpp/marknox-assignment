@@ -44,7 +44,7 @@ export const experiences = [
         jobTitle: "Frontend Developer Intern",
         jobDescription:
             "Responsible for frontend development at Go Tripping.",
-        imgUrl: "src/assets/gotripping_logo.webp",
+        imgUrl: "https://gotripping-frontend.vercel.app/_next/image?url=%2Fgotripping_logo.webp&w=256&q=75",
         employmentSpan: "July 2024 - September 2024",
         alt: "Work Experience | Go Tripping",
     },
@@ -52,7 +52,7 @@ export const experiences = [
         jobTitle: "Full Stack Developer Intern",
         jobDescription:
             "Worked as a full stack developer at RapidoForm. Here I created landing pages, implemented features and also involved in the testing of the website.",
-        imgUrl: "src/assets/rapidoform_logo.webp",
+        imgUrl: "https://www.rapidoform.com/be/images/logo/rapidoformlogo2new.webp",
         employmentSpan: "Nov 2023 - July 2024",
         alt: "Work Experience | RapidoForm",
     }
