@@ -12,7 +12,7 @@ const Navbar = () => {
   return (
     <div className="sticky top-0 left-0 z-50">
       <div className="flex items-center justify-between bg-primaryColor py-7 px-12 text-primaryText">
-        <a href="/" aria-label="Homepage" className="font-oswald">
+        <a href="/marknox-assignment/" aria-label="Homepage" className="font-oswald">
           <h2>P.S</h2>
         </a>
         <div className="sm:flex sm:items-center hidden gap-5 font-poppins">
